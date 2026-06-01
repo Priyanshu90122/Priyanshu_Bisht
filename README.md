@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science undergraduate** with hands-on experience building **ML-powered and full-stack applications**. I specialize in **Natural Language Processing, Deep Learning, and Backend Engineering** using Python, FastAPI, and HuggingFace Transformers.
+I am a **Computer Science undergraduate** with hands-on experience building **ML-powered and full-stack applications**. I specialize in **Machine Learning and Artificial Intelligence** using Python, FastAPI, and HuggingFace Transformers.
 
 - 🎓 **CGPA: 8.52 / 10.0** — Graphic Era Hill University
 - 🤖 Built production-ready AI systems using **DistilBERT, Gradient Boosting, and KNN**
@@ -37,12 +37,12 @@ I am a **Computer Science undergraduate** with hands-on experience building **ML
 | Category | Technologies |
 |---|---|
 | **Languages** | Python, C++, C, SQL, JavaScript |
-| **AI / ML** | Machine Learning, NLP, Deep Learning, Scikit-learn, TensorFlow, PyTorch, HuggingFace Transformers |
+| **AI / ML** | Machine Learning, NLP, Deep Learning, Scikit-learn, TensorFlow, PyTorch, HuggingFace, Transformers |
 | **Backend & APIs** | FastAPI, REST APIs, Node.js |
 | **Frontend** | ReactJS, JavaScript, HTML, CSS |
-| **Tools & DevOps** | Git, GitHub, Docker, CI/CD, Linux |
+| **Tools & DevOps** | Git, GitHub, Docker, CI/CD |
 | **Core CS** | DSA, OOP, OS, DBMS, Computer Networks, System Design |
-| **Currently Learning** | System Design (HLD+LLD), AWS, LangChain, MLOps |
+| **Currently Learning** | System Design (HLD+LLD), LangChain and Langraph |
 
 ---
 
