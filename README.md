@@ -86,15 +86,15 @@ class PriyanshuBisht:
 
 ### 💻 Languages & Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,fastapi,html,css,mongodb)
+![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,php,nodejs,fastapi,html,css)
 
 ### 🛠️ AI / ML & Tools
 
-![Tools](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,linux,git,github,vscode,postman)
+![Tools](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,git,github,vscode)
 
 ### 📚 Currently Learning
 
-![Learning](https://skillicons.dev/icons?i=kubernetes,nextjs,typescript,aws)
+![Learning](https://skillicons.dev/icons?i=kubernetes,artificialintelligence,aws)
 
 ### 🎨 Tech Badges
 
@@ -122,7 +122,7 @@ class PriyanshuBisht:
 <td width="50%" valign="top">
 
 ### 🔹 SpamGuard — Email Spam Detector
-[![SpamGuard](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/Priyanshu90122)
+[![SpamGuard](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/ravi0-web/email_spam)
 
 Real-time phishing detection system using **DistilBERT** and **FastAPI**. Runs fully on-device with zero external data transmission. Delivers spam scores (0–100%) and sentence-level threat highlighting via a Chrome extension.
 
@@ -136,7 +136,7 @@ Real-time phishing detection system using **DistilBERT** and **FastAPI**. Runs f
 <td width="50%" valign="top">
 
 ### 🔹 SmartOS — Intelligent CPU Scheduler
-[![SmartOS](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/Priyanshu90122)
+[![SmartOS](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/ravi0-web/Smart-Os)
 
 CPU scheduling simulator powered by a **Gradient Boosting** model for burst time prediction. Achieves **85% prediction accuracy** and outperforms traditional FCFS and Round-Robin baselines on OS metrics.
 
@@ -151,7 +151,7 @@ CPU scheduling simulator powered by a **Gradient Boosting** model for burst time
 <td colspan="2" width="100%" valign="top">
 
 ### 🔹 Book Recommendation System
-[![Book Recommender](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/Priyanshu90122)
+[![Book Recommender](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/Priyanshu90122/Book-Recommendation-System)
 
 Scalable **KNN-based recommendation engine** trained on 270,000+ books. Generates Top-5 personalized recommendations using cosine similarity. Deployed on **Streamlit** with dynamic UI rendering and optimized NumPy-based retrieval.
 
