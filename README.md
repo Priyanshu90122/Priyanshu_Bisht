@@ -4,8 +4,8 @@
 # 👋 Hi there, I'm Priyanshu Bisht
 
 ### 🎓 B.Tech in Computer Science & Engineering — Graphic Era Hill University
-### 💼 Software Developer | Python | ML/AI | FastAPI | Full-Stack
-### 🌱 Currently learning: Backend Engineering & Deep Learning
+### 💼 Software Developer | Python | ML/AI | Full-Stack
+### 🌱 Currently learning: Machine Learning and Artificial Intelligence
 ### 📍 Uttarakhand, India
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=ML+Engineer+%7C+Backend+Developer;DSA+Enthusiast+%7C+300%2B+Problems+Solved;Building+AI-Powered+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -36,17 +36,17 @@ class PriyanshuBisht:
         self.education = "B.Tech in Computer Science & Engineering"
         self.university = "Graphic Era Hill University (2023–2027)"
         self.cgpa = 8.52
-        self.current_learning = ["Deep Learning", "System Design", "Cloud Engineering"]
+        self.current_learning = ["Machine Learning and Artificial Intelligence", "System Design"]
 
     def skills(self):
         return {
             "languages":  ["Python", "C++", "C", "SQL", "JavaScript"],
             "backend":    ["FastAPI", "REST APIs", "Node.js"],
-            "frontend":   ["ReactJS", "HTML", "CSS"],
-            "ai_ml":      ["Machine Learning", "NLP", "Deep Learning",
+            "frontend":   ["Javascript", "HTML", "CSS"],
+            "ai_ml":      ["Machine Learning", "NLP", "Deep Learning", "Transformers",
                            "Scikit-learn", "TensorFlow", "PyTorch", "HuggingFace"],
-            "tools":      ["Git", "GitHub", "Docker", "CI/CD", "Linux"],
-            "core_cs":    ["DSA", "OOP", "OS", "DBMS", "Computer Networks", "System Design"]
+            "tools":      ["Git", "GitHub", "Docker", "CI/CD"],
+            "core_cs":    ["DSA", "OOPS", "OS", "DBMS", "Computer Networks", "System Design"]
         }
 
     def projects(self):
