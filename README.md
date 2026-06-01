@@ -4,7 +4,7 @@
 
 ### B.Tech Computer Science & Engineering | Graphic Era Hill University (2023–2027)
 
-**Python · Machine Learning · NLP · FastAPI · Backend Engineering**
+**Python · Machine Learning · NLP · FastAPI**
 
 [![Email](https://img.shields.io/badge/priyanshubisht41@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshubisht41@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-bisht41)
